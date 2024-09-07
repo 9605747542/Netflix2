@@ -1,0 +1,23 @@
+.navbar{
+    position: fixed;
+background-color: black;
+top:0;
+width: 100%;
+height: 100px;
+
+}
+.net-logo{
+   height: 40px;
+   width: 100px; 
+   margin-top:20px;
+   position:fixed;
+   left: 20px;
+
+   
+}
+.avatar{
+    position:fixed;
+    right: 20px;
+    width: 30px;
+    margin-top:30px ;
+}
